@@ -1,4 +1,4 @@
-# Case Study: Optimizing Text Messaging App with Efficient Data Structures
+## Case Study: Optimizing Text Messaging App with Efficient Data Structures
 
 **Task 1: Message Storage and Retrieval**
 
@@ -88,7 +88,7 @@ By implementing the recommended data structures and techniques, the text messagi
 This analysis provides a roadmap for optimizing the text messaging app, ensuring a smooth and efficient experience for users.
 
 
-# Case Study: Analyzing Big O Complexity for a Sorting Algorithm
+## Case Study: Analyzing Big O Complexity for a Sorting Algorithm
 
 **Task 1: Identifying Key Operations**
 
